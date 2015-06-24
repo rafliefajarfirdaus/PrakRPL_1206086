@@ -1,0 +1,12 @@
+merk_gitar,harga,type_gitar
+Alegro,500000,akustik
+Honda,1750000,guitar_electric
+Shen_shen,250000,bass_akustik
+Stabillo,200000,akustik
+Yamaha,1500000,bass_electric
+merk_gitar,harga,type_gitar
+Alegro,500000,akustik
+Honda,1750000,guitar_electric
+Shen_shen,250000,bass_akustik
+Stabillo,200000,akustik
+Yamaha,1500000,bass_electric
